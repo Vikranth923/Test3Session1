@@ -46,3 +46,4 @@ int main()
   add(n1,d1,n2,d2,&n3,&d3);
   output(n1,d1,n2,d2,n3,d3);
 }
+//hi
